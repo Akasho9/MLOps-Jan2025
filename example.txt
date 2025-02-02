@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is completely new content for M054-1 branch
+=======
+This is modified content for M054+1 branch
+>>>>>>> M054+1
