@@ -1,0 +1,87 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="67">
+            <item index="0" class="java.lang.String" itemvalue="pandas" />
+            <item index="1" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="2" class="java.lang.String" itemvalue="numpy" />
+            <item index="3" class="java.lang.String" itemvalue="croston" />
+            <item index="4" class="java.lang.String" itemvalue="mlxtend" />
+            <item index="5" class="java.lang.String" itemvalue="interpret-core" />
+            <item index="6" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="7" class="java.lang.String" itemvalue="torchvision" />
+            <item index="8" class="java.lang.String" itemvalue="skope-rules" />
+            <item index="9" class="java.lang.String" itemvalue="wurlitzer" />
+            <item index="10" class="java.lang.String" itemvalue="tsfeatures" />
+            <item index="11" class="java.lang.String" itemvalue="simdkalman" />
+            <item index="12" class="java.lang.String" itemvalue="pastel" />
+            <item index="13" class="java.lang.String" itemvalue="pylev" />
+            <item index="14" class="java.lang.String" itemvalue="sentencepiece" />
+            <item index="15" class="java.lang.String" itemvalue="log4mongo" />
+            <item index="16" class="java.lang.String" itemvalue="gevent" />
+            <item index="17" class="java.lang.String" itemvalue="pysimdjson" />
+            <item index="18" class="java.lang.String" itemvalue="crashtest" />
+            <item index="19" class="java.lang.String" itemvalue="memory-profiler" />
+            <item index="20" class="java.lang.String" itemvalue="dnspython" />
+            <item index="21" class="java.lang.String" itemvalue="tifffile" />
+            <item index="22" class="java.lang.String" itemvalue="yellowbrick" />
+            <item index="23" class="java.lang.String" itemvalue="clikit" />
+            <item index="24" class="java.lang.String" itemvalue="pyod" />
+            <item index="25" class="java.lang.String" itemvalue="pystan" />
+            <item index="26" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="27" class="java.lang.String" itemvalue="deprecation" />
+            <item index="28" class="java.lang.String" itemvalue="supersmoother" />
+            <item index="29" class="java.lang.String" itemvalue="xarray" />
+            <item index="30" class="java.lang.String" itemvalue="imageio" />
+            <item index="31" class="java.lang.String" itemvalue="azure-mgmt-core" />
+            <item index="32" class="java.lang.String" itemvalue="pywavelets" />
+            <item index="33" class="java.lang.String" itemvalue="azure-mgmt-storage" />
+            <item index="34" class="java.lang.String" itemvalue="cyclicbm" />
+            <item index="35" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="36" class="java.lang.String" itemvalue="webargs" />
+            <item index="37" class="java.lang.String" itemvalue="pydot" />
+            <item index="38" class="java.lang.String" itemvalue="zope-interface" />
+            <item index="39" class="java.lang.String" itemvalue="pandas-profiling" />
+            <item index="40" class="java.lang.String" itemvalue="httpstan" />
+            <item index="41" class="java.lang.String" itemvalue="docker" />
+            <item index="42" class="java.lang.String" itemvalue="pycaret" />
+            <item index="43" class="java.lang.String" itemvalue="tsmoothie" />
+            <item index="44" class="java.lang.String" itemvalue="tensorflow-datasets" />
+            <item index="45" class="java.lang.String" itemvalue="grpcio-status" />
+            <item index="46" class="java.lang.String" itemvalue="pyaf" />
+            <item index="47" class="java.lang.String" itemvalue="treeinterpreter" />
+            <item index="48" class="java.lang.String" itemvalue="tensorflow-metadata" />
+            <item index="49" class="java.lang.String" itemvalue="zope-event" />
+            <item index="50" class="java.lang.String" itemvalue="pymongo" />
+            <item index="51" class="java.lang.String" itemvalue="antropy" />
+            <item index="52" class="java.lang.String" itemvalue="schemdraw" />
+            <item index="53" class="java.lang.String" itemvalue="lime" />
+            <item index="54" class="java.lang.String" itemvalue="spark-df-profiling-new" />
+            <item index="55" class="java.lang.String" itemvalue="torch" />
+            <item index="56" class="java.lang.String" itemvalue="lazy-loader" />
+            <item index="57" class="java.lang.String" itemvalue="scikit-plot" />
+            <item index="58" class="java.lang.String" itemvalue="dash-cytoscape" />
+            <item index="59" class="java.lang.String" itemvalue="category-encoders" />
+            <item index="60" class="java.lang.String" itemvalue="salib" />
+            <item index="61" class="java.lang.String" itemvalue="interpret" />
+            <item index="62" class="java.lang.String" itemvalue="grpcio" />
+            <item index="63" class="java.lang.String" itemvalue="arch" />
+            <item index="64" class="java.lang.String" itemvalue="imbalanced-learn" />
+            <item index="65" class="java.lang.String" itemvalue="pmdarima" />
+            <item index="66" class="java.lang.String" itemvalue="azure-core" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="engines.stat_engine.runflow.select_best_fit.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
